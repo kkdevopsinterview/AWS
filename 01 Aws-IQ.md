@@ -1,4 +1,4 @@
-# Cloud & AWS Interview Notes (Highlighted)
+# Cloud & AWS Interview 
 
 ## 1. What is Cloud Computing?
 
