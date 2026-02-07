@@ -154,16 +154,16 @@ Route tables are fundamental to **AWS networking architecture**.
 
 ## 19. Public vs Private Subnet Usage
 
-A public subnet allows **direct internet access through an Internet
+- A public subnet allows **direct internet access through an Internet
 Gateway**, typically used for **load balancers or bastion hosts**.
 
-A private subnet has **no direct internet access** and is used for
+- A private subnet has **no direct internet access** and is used for
 **databases or backend services** to improve security.
 
-This separation reduces exposure of critical systems and follows **best
+- This separation reduces exposure of critical systems and follows **best
 practice architecture design**.
 
-DevOps teams design subnet layouts based on **application tiers and
+- DevOps teams design subnet layouts based on **application tiers and
 security needs**.
 
 ------------------------------------------------------------------------
