@@ -65,6 +65,7 @@ Simple microservice → HTTP API for speed and cost savings
 ------------------------------------------------------------------------
 
 ## 90. How does API Gateway integrate with Lambda?
+## KK FUNDA
 
 API Gateway integrates with Lambda by acting as the trigger for
 serverless execution.
